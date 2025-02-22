@@ -12,12 +12,12 @@ int main()
 		{
             printf(" ");
         }
-        for(j = 1; j <= i; j++)
-		 {
-            printf("%d ", i);
+        for(j = 1; j <= i; j++) 
+		{
+            printf("* ");
         }
         printf("\n");
     }
-	   return 0;
+	return 0;
 }
 
